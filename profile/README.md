@@ -10,5 +10,5 @@ Le serveur est un projet Mini-Jeux, orienté sur les FFA.
 
 Si vous avez des questions contactez nous directement sur notre discord !
 
-# Projet BlocVerse
+# Projet RakMC
 Les projets publics de RakMC sont privés et sous la licence GNU GPLv3. 
